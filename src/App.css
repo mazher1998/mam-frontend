@@ -1,0 +1,62 @@
+.ourteambackground {
+  
+  position: relative;
+  background-color: black;
+  
+  background: url('https://drive.google.com/uc?export=view&id=1J7m7hV-jO6yHHQsxWvaMCBBv_Az_btaq') no-repeat ;
+  float: left;
+  width: 100%;
+  background-size: 100% 100%;
+  height: 450px;
+  order: 1px solid black;
+}
+
+
+.ourteambackground2 {
+  
+  position: relative;
+ 
+ background-color: lightgrey;
+  float: left;
+  width: 100%;
+  background-size: 100% 100%;
+  
+  order: 1px solid black;
+}
+.abc{
+  margin-top: 70px;
+}
+.ourteamgettoknowus {
+  
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+  padding-left: 10%;
+  padding-top: 180px;
+  margin-bottom: 20px;
+  
+}
+.ourteamcard {
+  
+  width: 330px;
+  margin-right: 15%;
+  margin-left: 110px;
+  height:480px ;
+  
+}
+.ourteamcardimage{
+  height: 200px;
+}
+.ourteamcardbody{
+  text-align: left;
+  margin-top: 25px;
+  margin-left: 12px;
+}
+.ourteamcardrow{
+  margin-top: -130px;
+}
+.dash-buttons a {
+  display: block;
+  width: 200px;
+  margin-bottom: 0.2rem;
+}
