@@ -17,7 +17,7 @@ export const Footer = () => {
                 </a>
                 
                 
-                <a className="ins-ic" href='https://www.instagram.com/mamweddings/'>
+                <a className="ins-ic" href='https://www.instagram.com/montageartmediaweddings/'>
                 <i className="fab fa-instagram white-text"> </i>
                 </a>
         </div>
