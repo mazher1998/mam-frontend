@@ -1,6 +1,4 @@
-body{
-    padding: -40px;
-}
+
 .homecontainer{
 background: url('https://drive.google.com/uc?export=view&id=1Te2MPI7FLTn-DUE8xDv4valxE1PXBYM5') center center/cover no-repeat;
 /*width: 100%;
@@ -18,11 +16,11 @@ background-size: 100% 100%;
 background-position: center;
 background-attachment: fixed;
 min-height: 100vh;
-padding-top: -40px;
+
 
 
 }
-.homecontainer > h1 {
+.abc {
     color: white;
     font-size: 70px;
     margin-top: 100px;
@@ -32,7 +30,7 @@ padding-top: -40px;
     text-shadow: 4px 3px 15px #818182;
 }
     
-.homecontainer > p1{
+.ac{
     color: white;
     font-size: 20px;
     opacity: 60%;
