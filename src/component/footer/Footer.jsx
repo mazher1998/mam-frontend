@@ -27,7 +27,7 @@ export const Footer = () => {
   <div className="container text-center text-md-left mt-5">
     <div className="row mt-3">
     <div className=" company col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
-        <h6 className="text-uppercase font-weight-bold">MontageArtStudio</h6>
+        <h6 className="text-uppercase font-weight-bold">MontageArtMedia</h6>
         <hr className="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style={{width: 60}} />
         <p>We are here to preserve the moments of your most precious day as we believe that memories are forever.</p>
     </div>
@@ -38,7 +38,7 @@ export const Footer = () => {
         <p>
           <i className="fas fa-home mr-3" />Lahore</p>
         <p>
-          <i className="fas fa-envelope mr-3" /> MontageArtStudio.com</p>
+          <i className="fas fa-envelope mr-3" /> MontageArtMedia.com</p>
         <p>
           <i className="fas fa-phone mr-3" /> 03244814062 / 03400753492</p>
         

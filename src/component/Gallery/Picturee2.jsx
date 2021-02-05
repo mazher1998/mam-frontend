@@ -6,25 +6,20 @@ export const Picturee2 = () => {
   <div className="container-fluid">
     <div className="row">
       <div className="column">
-        <img src="https://images.pexels.com/photos/3586966/pexels-photo-3586966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" />
-        <img src="https://images.pexels.com/photos/2419375/pexels-photo-2419375.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" />
-        <img src="https://images.pexels.com/photos/2326290/pexels-photo-2326290.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" />
-        <img src="https://images.pexels.com/photos/3251006/pexels-photo-3251006.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" />
-        <img src="https://images.pexels.com/photos/1980720/pexels-photo-1980720.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" />
+        
+        <img src="https://images.pexels.com/photos/6704922/pexels-photo-6704922.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260" />
+        <img src="https://images.pexels.com/photos/6704786/pexels-photo-6704786.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260" />
       </div>
       <div className="column">
-        <img src="https://images.pexels.com/photos/3546429/pexels-photo-3546429.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" />
-        <img src="https://images.pexels.com/photos/3889868/pexels-photo-3889868.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" />
-        <img src="https://images.pexels.com/photos/2091160/pexels-photo-2091160.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" />
-        <img src="https://images.pexels.com/photos/2019546/pexels-photo-2019546.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" />
+        <img src="https://images.pexels.com/photos/6704845/pexels-photo-6704845.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260" />
+        <img src="https://images.pexels.com/photos/6704922/pexels-photo-6704922.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260" />
+        
+        
       </div>
       <div className="column">
-        <img src="https://images.pexels.com/photos/3889868/pexels-photo-3889868.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" />
-        <img src="https://images.pexels.com/photos/2360569/pexels-photo-2360569.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" />
-        <img src="https://images.pexels.com/photos/3779785/pexels-photo-3779785.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" />
-        <img src="https://images.pexels.com/photos/259987/pexels-photo-259987.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" />
-        <img src="https://images.pexels.com/photos/2350514/pexels-photo-2350514.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" />
-      </div>
+      <img src="https://images.pexels.com/photos/6704921/pexels-photo-6704921.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260" />
+        <img src="https://images.pexels.com/photos/6704925/pexels-photo-6704925.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260" />
+        </div>
     </div>
   </div>
 </div>

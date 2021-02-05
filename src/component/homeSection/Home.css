@@ -1,5 +1,5 @@
 body{
-    /* padding: -40px; */
+    padding: -40px;
 }
 .homecontainer{
 background: url('https://drive.google.com/uc?export=view&id=1Te2MPI7FLTn-DUE8xDv4valxE1PXBYM5') center center/cover no-repeat;
@@ -18,7 +18,7 @@ background-size: 100% 100%;
 background-position: center;
 background-attachment: fixed;
 min-height: 100vh;
-/* padding-top: -40px; */
+padding-top: -40px;
 
 
 }

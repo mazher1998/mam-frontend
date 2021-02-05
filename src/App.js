@@ -13,7 +13,10 @@ import {Navbar} from './component/navbar/Navbar'
 import Footer from './component/footer/Footer'
 import {WhyUs} from './component/whyus/WhyUs'
 import Home from './component/home/Home'
-import Picture from './component/Gallery/Picturee4'
+import Picture from './component/Gallery/Picturee'
+import Picture2 from './component/Gallery/Picturee2'
+import Picture3 from './component/Gallery/Picturee3'
+import Picture4 from './component/Gallery/Picturee4'
 import Packages from './component/packages/Packages'
 
 function App() {
@@ -25,6 +28,9 @@ function App() {
     
     <Route exact path = "/" component={Home}/> 
     <Route exact path = "/gallery1" component={Picture}/> 
+    <Route exact path = "/gallery2" component={Picture2}/> 
+    <Route exact path = "/gallery3" component={Picture3}/> 
+    <Route exact path = "/gallery4" component={Picture4}/> 
     <Route exact path = "/ourteam" component={Ourteam}/>
     <Route exact path = "/whyus" component={WhyUs}/>
     <Route exact path = "/services" component={Services}/>

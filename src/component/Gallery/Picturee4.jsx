@@ -7,25 +7,22 @@ export const Picturee4 = () => {
   <div className="container-fluid">
     <div className="row">
       <div className="column">
-        <img src="https://images.pexels.com/photos/3586966/pexels-photo-3586966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" />
-        <img src="https://images.pexels.com/photos/2419375/pexels-photo-2419375.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" />
-        <img src="https://images.pexels.com/photos/2326290/pexels-photo-2326290.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" />
-        <img src="https://images.pexels.com/photos/3251006/pexels-photo-3251006.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" />
-        <img src="https://images.pexels.com/photos/1980720/pexels-photo-1980720.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" />
+        <img src="https://images.pexels.com/photos/6705486/pexels-photo-6705486.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" />
+        <img src="https://images.pexels.com/photos/6705483/pexels-photo-6705483.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" />
+        <img src="https://images.pexels.com/photos/6705482/pexels-photo-6705482.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" />
+        <img src="https://images.pexels.com/photos/6705480/pexels-photo-6705480.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260" />
+       
       </div>
       <div className="column">
-        <img src="https://images.pexels.com/photos/3546429/pexels-photo-3546429.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" />
-        <img src="https://images.pexels.com/photos/3889868/pexels-photo-3889868.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" />
-        <img src="https://images.pexels.com/photos/2091160/pexels-photo-2091160.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" />
-        <img src="https://images.pexels.com/photos/2019546/pexels-photo-2019546.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" />
-        <ReactPlayer width= '100%' height= '450px' margin-top = '8px'  url = 'https://youtu.be/0-7IHOXkiV8?list=RD0-7IHOXkiV8' />
+        <img src="https://images.pexels.com/photos/6705237/pexels-photo-6705237.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260" />
+        <img src="https://images.pexels.com/photos/6705235/pexels-photo-6705235.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260" />
+        <img src="https://images.pexels.com/photos/6705236/pexels-photo-6705236.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260" />
+        {/* <ReactPlayer width= '100%' height= '450px' margin-top = '8px'  url = 'https://youtu.be/0-7IHOXkiV8?list=RD0-7IHOXkiV8' /> */}
       </div>
       <div className="column">
-        <img src="https://images.pexels.com/photos/3889868/pexels-photo-3889868.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" />
-        <img src="https://images.pexels.com/photos/2360569/pexels-photo-2360569.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" />
-        <img src="https://images.pexels.com/photos/3779785/pexels-photo-3779785.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" />
-        <img src="https://images.pexels.com/photos/259987/pexels-photo-259987.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" />
-        <img src="https://images.pexels.com/photos/2350514/pexels-photo-2350514.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" />
+        <img src="https://images.pexels.com/photos/6705232/pexels-photo-6705232.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260" />
+        <img src="https://images.pexels.com/photos/6705233/pexels-photo-6705233.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260" />
+        <img src="https://images.pexels.com/photos/6705234/pexels-photo-6705234.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260" />
       </div>
     </div>
   </div>
