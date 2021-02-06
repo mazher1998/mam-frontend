@@ -38,7 +38,7 @@ export const Footer = () => {
         <p>
           <i className="fas fa-home mr-3" />Lahore</p>
         <p>
-          <i className="fas fa-envelope mr-3" /> MontageArtMedia.com</p>
+          <i className="fas fa-envelope mr-3" /> info@montageartmedia.com</p>
         <p>
           <i className="fas fa-phone mr-3" /> 03244814062 / 03400753492</p>
         
