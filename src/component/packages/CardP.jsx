@@ -42,7 +42,7 @@ export const Card = (props) => {
    
 <div className='col-md-4 col-10 mx-auto'>
 <div className="card">
-<img className='imgcard1' src={props.imgsrc}  alt="imgsrc" />
+<img className='imgcard11' src={props.imgsrc}  alt="imgsrc" />
 {/* <div className="card-body">
 <h5 className="card-title">{props.title}</h5>
     <p className="card-text">{props.dis}</p>
